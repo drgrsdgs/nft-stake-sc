@@ -154,3 +154,4 @@ Should configure properly in `BROWSER` environment.
 ## BE Tracking Service Activity Parsing Script
 This script will fetch past Txs reacted with Our Marketplace Smartcontract. Then will parse an activity from each Txs so that use the info for DB sync up. \
 `yarn be`
+
